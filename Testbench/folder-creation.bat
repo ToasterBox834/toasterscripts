@@ -9,4 +9,3 @@ cls
 echo We will now shutdown your pc. Thank you for choosing Toasterscripts, we appriciate you testing our scripts!
 pause
 shutdown /s /f /t 0
-// Will now shutdown pc after finished.
